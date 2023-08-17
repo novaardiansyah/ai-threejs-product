@@ -57,7 +57,7 @@ const Customizer = () => {
                     />
                   ))}
 
-                  {/* {generateTabContent()} */}
+                  {generateTabContent()}
                 </div>
               </div>
             </motion.div>
