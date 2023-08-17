@@ -23,13 +23,13 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
             <CustomButton
               type="outline"
               title="AI Logo"
-              handleClick={() => handleSubmit('logo')}
+              handleClick={() => alert('We are sorry, this feature is not available in the deme version.')}
               customStyle="text-xs"
             />
             <CustomButton
               type="filled"
               title="AI Full"
-              handleClick={() => handleSubmit('full')}
+              handleClick={() => alert('We are sorry, this feature is not available in the deme version.')}
               customStyle="text-xs"
             />
           </>
