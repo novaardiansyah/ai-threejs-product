@@ -36,7 +36,7 @@ Feel free to reach out to me via [Email](mailto:novaardiansyah78@gmail.com) or [
 
 ## Preview
 
-Feel free to check out the app's current progress at [https://www.threejs-ai-product.novaardiansyah.site/](https://www.threejs-ai-product.novaardiansyah.site/). Here are some screenshots of the app in action:
+Feel free to check out the app's current progress at [https://threejs-ai-product.novaardiansyah.site](https://threejs-ai-product.novaardiansyah.site). Here are some screenshots of the app in action:
 
 <div style="margin-bottom: 5px">
   <img src="public/img/capture/image-1.png" alt="image-1" style="width: 300px; margin-right: 10px" />
